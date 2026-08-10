@@ -14,6 +14,9 @@ Test point T8 drives other half of VGA input. Connect T8 to HD15-pin 3 via a 330
 CPLD design files for beam racing, https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/Beam_Racing_for_CPLD_Trainer/CPLD_trainer_Rev1_6502sbc_vga_controller.zip
 
 Beam racing demonstration software
+
 Demonstration picture using IRQ, 
+
 Using NMI to display raw image, 
+
 Using NMI to reformat image
