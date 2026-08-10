@@ -7,9 +7,8 @@ https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_t
 
 Design Features:
 
-EPM7128SLC84 128-macrocell CPLD
-
-W65C02 or W65C816 processor
+- EPM7128SLC84 128-macrocell CPLD
+- W65C02 or W65C816 processor
 
 128K RAM
 
