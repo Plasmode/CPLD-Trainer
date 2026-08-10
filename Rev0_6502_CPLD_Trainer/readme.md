@@ -6,16 +6,27 @@ https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_t
 https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure_front.jpg
 
 Design Features:
+
 EPM7128SLC84 128-macrocell CPLD
+
 W65C02 or W65C816 processor
+
 128K RAM
+
 128 EPROM
+
 Six 7-segment displays
+
 Serial port
+
 I2C interface
+
 SPI interface
+
 PS2 keyboard interface
+
 RC6502 expansion bus
+
 100mm X 100mm 2-layer pc board
 PacTec CM5-125 enclosure
 
