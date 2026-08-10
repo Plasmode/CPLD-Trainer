@@ -10,3 +10,5 @@ Test point T28 is VGA Hsync, connect T28 to HD15-pin 13
 Test point T29 is VGA Vsync, connect T29 to HD15-pin 14
 Test point T7 drives half of VGA input. Connect T7 to HD15-pin 1 via a 330 ohm resistor; connect T7 to HD15-2 via a 680 ohm resistor
 Test point T8 drives other half of VGA input. Connect T8 to HD15-pin 3 via a 330 ohm resistor; connect T8 to HD15-2 via a 680 ohm resistor
+
+CPLD design files for beam racing, 
