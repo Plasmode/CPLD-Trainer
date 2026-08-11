@@ -1,6 +1,6 @@
 CPLD6502 explores the world of complex programmable logic device (CPLD) and how it interacts with a 6502 processor and memories. 
-Discussion about the CPLD6502 trainer can be found here, https://6502.org/forum/viewtopic.php?f=10&t=6974
-This version (rev0) is obsolete; current version is [Rev1 CPLD Trainer](CPLD-Trainer/tree/main/Rev1_6502_CPLD_trainer) Current version of CPLD Trainer is rev1.  This is link to rev1 of CPLD Trainer, https://github.com/Plasmode/CPLD-Trainer/tree/main/Rev1_6502_CPLD_trainer
+Discussion about the CPLD6502 trainer can be found in [6502 forum](https://6502.org/forum/viewtopic.php?f=10&t=6974)
+This version (rev0) is obsolete; current version is [Rev1 CPLD Trainer](../Rev1_6502_CPLD_trainer) Current version of CPLD Trainer is rev1.  This is link to rev1 of CPLD Trainer, https://github.com/Plasmode/CPLD-Trainer/tree/main/Rev1_6502_CPLD_trainer
 
 https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure.jpg
 https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure_front.jpg
