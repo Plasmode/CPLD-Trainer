@@ -7,7 +7,7 @@ This version (rev0) is obsolete; current version is [Rev1 CPLD Trainer](../Rev1_
 
 ![front](https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure_front.jpg)
 
-
+![front](../Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure_front.jpg)
 
 Design Features:
 
