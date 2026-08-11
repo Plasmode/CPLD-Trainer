@@ -3,7 +3,8 @@ Discussion about the CPLD6502 trainer can be found in [6502 forum](https://6502.
 
 This version (rev0) is obsolete; current version is [Rev1 CPLD Trainer](../Rev1_6502_CPLD_trainer) 
 
-.[duh!](https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure.jpg)
+[CPLD Trainer in PacTec CM5-125 Enclosure](https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure.jpg)
+
 https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure_front.jpg
 
 Design Features:
