@@ -3,7 +3,7 @@ Discussion about the CPLD6502 trainer can be found in [6502 forum](https://6502.
 
 This version (rev0) is obsolete; current version is [Rev1 CPLD Trainer](../Rev1_6502_CPLD_trainer) 
 
-https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure.jpg
+!https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure.jpg
 https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1_6502_CPLD_trainer/CPLD_trainer_session10/CPLD_Trainer_session10_sbc_enclosure_front.jpg
 
 Design Features:
@@ -21,4 +21,13 @@ Design Features:
 - 100mm X 100mm 2-layer pc board
 - PacTec CM5-125 enclosure
   
+Design Information
+- Schematic
+- Gerber photoplot
+- Bill of materials
+- CPLD design files for 6502SBC_Serial_V02
 
+Engineering changes
+
+Software
+- CPLD6502 Monitor for 6502SBC_Serial_V02 CPLD design
