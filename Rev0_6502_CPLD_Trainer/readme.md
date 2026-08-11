@@ -31,4 +31,4 @@ Design Information
 [Engineering changes](Engineering_change)
 
 Software
-- CPLD6502 Monitor for 6502SBC_Serial_V02 CPLD design
+- [CPLD6502 Monitor](CPLD_trainer_r0_software_monitor_v02_seral-rx-tx.zip) for 6502SBC_Serial_V02 CPLD design
