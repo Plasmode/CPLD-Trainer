@@ -11,6 +11,7 @@ RAM output enable, write enable, chip select wiring errors
 Separate Flash output enable and chip select
 - Cut D, jumper D
 
+
 2N2222 Footprint as layed out on PCB
 
 ![2n2222](02222200.jpg)
