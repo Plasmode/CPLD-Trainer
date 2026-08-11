@@ -24,7 +24,7 @@ Design Features:
   
 Design Information
 - Schematic
-- Gerber photoplot
+- [Gerber photoplot](CPLD_trainer_rev0_gerber.zip)
 - Bill of materials
 - CPLD design files for 6502SBC_Serial_V02
 
