@@ -23,12 +23,12 @@ Design Features:
 - PacTec CM5-125 enclosure
   
 Design Information
-- Schematic
+- [Schematic](CPLD_trainer_rev0_scm.pdf)
 - [Gerber photoplot](CPLD_trainer_rev0_gerber.zip)
-- Bill of materials
-- CPLD design files for 6502SBC_Serial_V02
+- [Bill of materials](CPLD_trainer_rev0_bill_of_materials.pdf)
+- CPLD design files for [6502SBC_Serial_V02](CPLD_Trainer_r0_SBC_serial_design_files.zip)
 
-Engineering changes
+[Engineering changes](Engineering_change)
 
 Software
 - CPLD6502 Monitor for 6502SBC_Serial_V02 CPLD design
