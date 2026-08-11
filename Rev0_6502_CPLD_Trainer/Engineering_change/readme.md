@@ -1,6 +1,6 @@
 Engineering Changes for CPLD6502, rev0
 There are two errors on rev0 CPLD6502 pc board. This is the engineering changes to correct these errors.
-
+![EC](CPLD_trainer_rev0_ec_1.jpg)
 
 7-Segment display, D6, wiring errors
 - Cut A, jumper A, cut B, jumper B
